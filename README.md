@@ -18,3 +18,11 @@ and achieve your goals effortlessly.
 - Yup
 - React hook forms
 - FSD (Methodology)
+
+
+### My Next plans: 
+I am going to add  Gemini to it
+
+### Then Notification
+
+### Next I will add React Native version of it
